@@ -21,3 +21,7 @@ Database:
 ## Development
 
 Project ini dikembangkan menggunakan framework Laravel.
+
+## Fitur
+
+- Manajemen produk
